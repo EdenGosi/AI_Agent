@@ -1,5 +1,5 @@
-# 🤖 AI Agent with Gemini (LangChain + LangGraph)
-
+# AI Agent with Gemini (LangChain + LangGraph)
+---
 This project is a **Python-based AI agent** built using **LangChain**, **LangGraph**, and **Google Gemini**.  
 It demonstrates how to create an interactive AI assistant that can reason, respond and be extended with tools
 ---
@@ -23,8 +23,4 @@ It demonstrates how to create an interactive AI assistant that can reason, respo
 - Google Gemini API
 - python-dotenv
 - uv(package & environment manager)
-
----
-
-## 📁 Project Structure
 
